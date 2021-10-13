@@ -7,5 +7,6 @@ la réalisation de cet application a passé par 2 étapes :
 *********************************************************
 * L'application est réalisé par le language JAVA.
 * La connexion et la communication entre la bibliotheque et les Kindles réalisé par les SOCKET.
-* l'utilisation des THREADS permet au bibliotheque d'être connecté avec plusieurs Kindle en même temp. 
+* l'utilisation des THREADS permet au bibliotheque d'être connecté avec plusieurs Kindle en même temp.
+* l'aspect IOT(Internet Of Things) dans la collecte et l'envoi des données des Kindles à la bibliotheque 
 *********************************************************
